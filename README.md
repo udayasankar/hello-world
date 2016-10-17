@@ -1,4 +1,5 @@
 # hello-world
-Just repository
 
-This created by uday for the initial learning of GITHUB
+This is the repository create by uday
+for the purpose of learning git hub.
+
